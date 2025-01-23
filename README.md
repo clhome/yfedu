@@ -1,7 +1,9 @@
 # YFedu
 Automatically generate practice questions for elementary and middle school students
 
-自动生成小学数学-小学练习题
+自动生成小学数学练习题
+
+小数乘法练习：decimal_multiplication.py
 
 ## 安装组件
 
